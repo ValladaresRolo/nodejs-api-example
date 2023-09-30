@@ -1,0 +1,37 @@
+{
+    "dishes": [
+        {
+            "id": 1,
+            "name": "Empanadas",
+            "origen": "brazil"
+        },
+        {
+            "id": 2,
+            "name": "Ceviche",
+            "origen": "Perú"
+        }
+    ],
+    "dogs": [
+        {
+            "id": 1,
+            "name": "Coco",
+            "raza": "kiltro negro",
+            "pais": "japon",
+            "peso": "5kg"
+        },
+        {
+            "id": 2,
+            "name": "Clara",
+            "raza": "Super Kiltro Blanco",
+            "pais": "Korea del Norte",
+            "peso": "15kg"
+        },
+        {
+            "id": 3,
+            "name": "Lucy Fernandez",
+            "raza": "Kiltro Mitico",
+            "pais": "Siria",
+            "peso": "5kg"
+        }
+    ]
+}
